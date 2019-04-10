@@ -7,7 +7,7 @@ Frozen-Flask==0.11
 Jinja2 ~> 2.10.1
 Markdown==2.5.2
 MarkupSafe==0.23
-PyYAML==3.11
+pyyaml>=4.2b1
 Werkzeug==0.10.1
 argparse==1.2.1
 ecdsa==0.13
